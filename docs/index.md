@@ -1,4 +1,6 @@
 
-- shane null's stoic research and journals
+[stoic challenge](challenge.md){ .md-button }
 
 [TAGS]
+
+epictetus.md

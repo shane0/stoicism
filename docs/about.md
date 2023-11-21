@@ -1,5 +1,6 @@
 # about
 
+- shane null's stoic research and journals
 - deployed using this [workflow template](https://github.com/shane0/workflow)
 
 !!! info
