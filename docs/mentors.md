@@ -125,9 +125,10 @@ Charles Bukowski, the American writer and poet, is known for his raw and unfilte
 - men who lived true to worthy old ways or traditions
 - free thinkers
 - lived natural or independent or minimalis lives
-- casey neistat
 - richard proenneke
 - chuck palaniuk
 - bill hicks
 - george carlin
 - bach
+- aaron swartz 
+- ran prieur 
