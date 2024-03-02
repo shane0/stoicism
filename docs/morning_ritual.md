@@ -51,5 +51,3 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5SBrCdRTX8o?si=Jzo2BhX1CVvw5Lqd&amp;clip=UgkxPDMd9M_qYSZ6Cjm36BSw39xEoHZF0qpR&amp;clipt=EIaLPxjA9UA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - one thing I reflect on is that I living in the cascadia subduction zone, this is a stupid place to be
-
-<iframe width="1126" height="697" src="https://www.youtube.com/embed/Ibxaw4FimBI" title="The Next Cascadia Earthquake: Worst Case Scenario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
