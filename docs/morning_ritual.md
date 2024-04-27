@@ -41,8 +41,6 @@ tags:
 - today I'm practicing the [heart sutra](https://shanenull.com/buddhism/2023/heart_sutra_details/)
 - updating sites
 
-<iframe width="1126" height="633" src="https://www.youtube.com/embed/iqs5RUa0B7c" title="7 THINGS YOU SHOULD DO EVERY MORNING (Stoic Routine)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## 2023-11-20 impermanence
 
 - practice one minute left
