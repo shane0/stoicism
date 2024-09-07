@@ -24,3 +24,7 @@
    - "Amor Fati" can be seen as a positive affirmation of life. It is a mindset that seeks to appreciate the beauty and value in every experience, recognizing that each moment, whether joyful or sorrowful, contributes to the richness of life.
 
 In essence, "Amor Fati" encourages a profound acceptance of the unfolding of events in one's life, promoting a love for the entirety of one's existence, and fostering a resilient and positive attitude in the face of life's uncertainties.
+
+## sid smith 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=shk55P0uED-lKV1F&amp;list=PLNcGo6a-yKuIubvDb6mIyd0KHQ-7UasJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
