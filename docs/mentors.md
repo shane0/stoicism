@@ -17,6 +17,7 @@ tags:
 - independant thought 
 - see through the circumstantial 
 - whatever they do it is flavored with their own style
+- live inside and outside reality
 
 ### examples
 
