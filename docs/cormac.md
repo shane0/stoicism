@@ -1,5 +1,23 @@
 # cormac mccarthy
 
+## Ciaccona 
+
+- the audiobook for his last book Stella Marris he plays this song, this version:
+- Cormac's books are text versions of a Ciacocona
+
+<iframe width="1159" height="652" src="https://www.youtube.com/embed/XVC9bRDniOk" title="Partita No. 2 in D Minor Bwv 1004: Ciaccona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**A Ciaccona (or Chaconne)** is a musical form that involves repeating a short, simple harmonic progression (often referred to as a "ground bass") throughout the piece. This repeated bassline provides a foundation for the composer to create variations, decorations, and melodic inventions.
+
+**Key characteristics of a Ciaccona:**
+
+* **Repeated harmonic progression:** The same chords are repeated throughout the piece.
+* **Variations:** The melody and harmony change over time, creating a sense of development and interest.
+* **Baroque era:** This form was particularly popular during the Baroque period (1600-1750).
+* **Examples:** One of the most famous examples of a Ciaccona is the final movement of Johann Sebastian Bach's Violin Partita No. 2 in D minor.
+
+Think of it like a musical puzzle. The ground bass is the puzzle's foundation, and the composer fills in the gaps with different musical elements to create a complex and beautiful piece.
+
 ## existence
 
 - the passenger
