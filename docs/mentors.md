@@ -5,6 +5,28 @@ tags:
 ---
 # finding the right mentors
 
+## mentor qualities
+
+- reflective
+- fearless
+- capable of observing the most obvious things most often overlooked by society 
+- can see through the false ego 
+- succeeded with no regard for money or greed
+- classic 
+- timeless 
+- independant thought 
+- see through the circumstantial 
+- whatever they do it is flavored with their own style
+
+### examples
+
+- cormac mccarthy: gave up his rich upbringing and made it his #1 goal to not punch someone elses clock he lived on his terms and all of his works are on par with bach's chaconne his books are timeless and transcend quantum physics & reality & buddhism & anything that has crossed my path
+- thich nhat hahn: grew up in middle viet nam and taught how to overcome war not by taking a side but by destroying the hate in both sides using compassion and letting go of blame 
+- martin luther king: when thich met him he explained they referred to him as a bodhisattva because he protested for human rights peacefully
+- frank zappa: early on his studio was raided and shut down by racist local authorities but he overcame them and carved his own path outside consumerism based fake music
+- william rees: defined ecological footprint this is as big of a realization as enlightenment imo - I grew up near rural areas and we would follow streams up to their source seeing creatures along the way like we were finding the source of life, I compare this to his connection to nature growing up on a farm and realizing humans depend on a large footprint of the ecosystem to sustain ourselves, we are the land, we are the earth water air sun soil bugs and everything between we need to cultivate life on earth and live in realistic boundaries
+
+
 ## from the stoic people daily challenge deck
 
 - 2023-11-20
