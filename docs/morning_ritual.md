@@ -26,20 +26,9 @@ tags:
 
 <iframe width="966" height="543" src="https://www.youtube.com/embed/HLha33SzaaU" title="PHENOMENAL RESULTS ! This One Exercise Will Change Your Life | Every Morning 21 Times | Sadhguru" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- upa
+- [upa yoga](https://youtu.be/Jf5qUhz-FVk)
 
-<iframe width="966" height="543" src="https://www.youtube.com/embed/QjGF2MLdIz8" title="Isha Upa Yoga - 30 mins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## 2023-12-24 checklist & timebox
-
-- appreciating vacation using the time for stoicism, buddhism, journaling
-- this is a lot of stuff for the morning if I simplify it I can be more consistent
-- yoga & meditation to do in the morning lol
-- as taught in level 1 class <https://shanenull.com/buddhism/2023/level_1/>
-- use their format in daily life when time allows
-- chant, silent meditation, walk, train & dedication of merits
-- today I'm practicing the [heart sutra](https://shanenull.com/buddhism/2023/heart_sutra_details/)
-- updating sites
+<iframe width="1126" height="633" src="https://www.youtube.com/embed/Jf5qUhz-FVk" title="Isha Upa Yoga Practices : Learn Yoga Online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2023-11-20 impermanence
 

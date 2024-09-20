@@ -1,6 +1,6 @@
 # cormac mccarthy
 
-## Ciaccona 
+## Ciaccona
 
 - the audiobook for his last book Stella Marris he plays this song, this version:
 - Cormac's books are text versions of a Ciacocona
@@ -11,12 +11,32 @@
 
 **Key characteristics of a Ciaccona:**
 
-* **Repeated harmonic progression:** The same chords are repeated throughout the piece.
-* **Variations:** The melody and harmony change over time, creating a sense of development and interest.
-* **Baroque era:** This form was particularly popular during the Baroque period (1600-1750).
-* **Examples:** One of the most famous examples of a Ciaccona is the final movement of Johann Sebastian Bach's Violin Partita No. 2 in D minor.
+- **Repeated harmonic progression:** The same chords are repeated throughout the piece.
+- **Variations:** The melody and harmony change over time, creating a sense of development and interest.
+- **Baroque era:** This form was particularly popular during the Baroque period (1600-1750).
+- **Examples:** One of the most famous examples of a Ciaccona is the final movement of Johann Sebastian Bach's Violin Partita No. 2 in D minor.
 
 Think of it like a musical puzzle. The ground bass is the puzzle's foundation, and the composer fills in the gaps with different musical elements to create a complex and beautiful piece.
+
+### ground bass
+
+| Year | Title                           | Quote 1 | Quote 2 | Quote 3 | Quote 4 | Quote 5 | characters providing the rules |
+|------|---------------------------------|---------|---------|---------|---------|---------|--------------------------------|
+| 1965 | The Orchard Keeper              |         |         |         |         |         |                                |
+| 1968 | Outer Dark                      |         |         |         |         |         | tinker & the three necros      |
+| 1973 | Child of God                    |         |         |         |         |         | sheriff                        |
+| 1979 | Suttree                         |         |         |         |         |         |                                |
+| 1985 | Blood Meridian                  |         |         |         |         |         | the judge                      |
+| 1992 | All the Pretty Horses           |         |         |         |         |         |                                |
+| 1994 | The Crossing                    |         |         |         |         |         |                                |
+| 1998 | Cities of the Plain             |         |         |         |         |         |                                |
+| 2005 | No Country for Old Men          |         |         |         |         |         | anton                          |
+| 2006 | The Road                        |         |         |         |         |         |                                |
+| 2022 | The Passenger                   |         |         |         |         |         |                                |
+| 2022 | Stella Maris                    |         |         |         |         |         | alicia & the kid               |
+| 1979 | The Gardener's Son (Screenplay) |         |         |         |         |         |                                |
+| 1992 | The Stonemason (Play)           |         |         |         |         |         |                                |
+| 2006 | The Sunset Limited (Play)       |         |         |         |         |         | professor of darkness          |
 
 ## existence
 
