@@ -8,7 +8,7 @@ tags:
 ---
 # morning ritual
 
-[mind ground[(https://shanenull.com/buddhism/latest/mind_ground/){ .md-button }
+[mind ground](https://shanenull.com/buddhism/latest/mind_ground/){ .md-button }
 
 ![j](images/morning.jpeg)
 

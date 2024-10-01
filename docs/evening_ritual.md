@@ -8,7 +8,7 @@ tags:
 ---
 # evening ritual
 
-[mind ground[(https://shanenull.com/buddhism/latest/mind_ground/){ .md-button }
+[mind ground](https://shanenull.com/buddhism/latest/mind_ground/){ .md-button }
 
 ## maranasati
 
