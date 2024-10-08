@@ -1,5 +1,32 @@
 # cormac mccarthy
 
+!!! bug
+
+    spoiler alert!
+
+- I am collecting his hard copies and audiobooks
+- and his movies
+
+## cormac books I have have read
+
+- I have hard copies of most of these
+
+book                   | movie | audiobook | hard copy | note
+-----------------------|-------|-----------|-----------|---------------------------------------------------------------------
+blood meridian         |       | x         |           | listen to the audiobook when I hike in the summer in the dry hot sun
+the passenger          |       | x         |           |
+stella marris          |       | x         |           |
+outer dark             |       | x         |           |
+suttree                |       | x         |           |
+the crossing           |       | x         |           |
+all the pretty horses  | x     | x         |           |
+no country for old men | x     | x         |           |
+Cities of the Plain    |       | x         |           |
+sunset limited         | x     |           |           |
+the counselor          | x     |           |           |
+orchard keeper         |       |           |           |
+the road               | x     |           |           |
+
 ## Ciaccona
 
 - the audiobook for his last book Stella Marris he plays this song, this version:
@@ -18,7 +45,23 @@
 
 Think of it like a musical puzzle. The ground bass is the puzzle's foundation, and the composer fills in the gaps with different musical elements to create a complex and beautiful piece.
 
-### ground bass
+<iframe width="1159" height="652" src="https://www.youtube.com/embed/95eTHEiIkqI?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="The World in Pain - Sunset Limited (Tommy Lee Jones &amp; Samuel L.Jackson)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1236" height="618" src="https://www.youtube.com/embed/CFpBxV84CFQ?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="Sunset Limited (Cormac McCarthy) - &quot;Damn Indeed&quot; - Samuel L. Jackson x Tommy Lee Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1236" height="516" src="https://www.youtube.com/embed/4nnqpZICG2Q?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="Jefe&#39;s wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1159" height="652" src="https://www.youtube.com/embed/_-d1S79zt8c?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="No Country for Old Men - Hotel Scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1159" height="652" src="https://www.youtube.com/embed/VXNfxK5Q2Qg?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="No Country for Old Men (2007) - Sheriff Bell&#39;s dreams (Tommy Lee Jones)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1159" height="652" src="https://www.youtube.com/embed/pXlBmQfnWCY?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="The Road are you carrying the fire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1172" height="652" src="https://www.youtube.com/embed/ZXezsCSQGWc?list=PLGY2UhH7nNtL2EZBm24tUO9s41B_xepq6" title="The Sunset Limited: I long for the darkness. I pray for death." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## ground bass
+
+- the chaconne bass line in his books is the rules
 
 | Year | Title                           | Quote 1 | Quote 2 | Quote 3 | Quote 4 | Quote 5 | characters providing the rules |
 |------|---------------------------------|---------|---------|---------|---------|---------|--------------------------------|
