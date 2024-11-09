@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>why we can't have nice things</title>
+    <title>expensive problems</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .slider-container {
+            margin-bottom: 20px;
+        }
+        .progress-bar-container {
+            margin-top: 20px;
+        }
+        .progress-bar {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+        .progress {
+            height: 20px;
+            background-color: #4caf50;
+            width: 0;
+            transition: width 0.3s;
+        }
+    </style>
+</head>
+<body>
+    <h2>Expense and Problem Impact on Tax and Fees</h2>
+    <h3>aka why we can't have nice things</h3>
+    <p>governments and banks profit from ongoing expensive problems</p>
+    <p>this is why problems do not get solved and why things get more expensive</p>
+    <p>solutions reduce profit</p>
+    <p>lowering expenses lowers the economy</p>
+    <p>money buys power</p>
+    <p>kurt vonnegut - "we may become the first species to go extinct because survival was not cost effective</p>
+    
+    <!-- Sliders -->
+    <div class="slider-container">
+        <label for="problemsSlider">Problems:</label>
+        <input type="range" id="problemsSlider" min="0" max="100" value="0" oninput="updateProgress()">
+        <span id="problemsValue">0</span>
+    </div>
+    
+    <div class="slider-container">
+        <label for="expenseSlider">Expense:</label>
+        <input type="range" id="expenseSlider" min="0" max="100" value="0" oninput="updateProgress()">
+        <span id="expenseValue">0</span>
+    </div>
+    
+    <!-- Progress Bars -->
+    <div class="progress-bar-container">
+        <label>Tax Collected:</label>
+        <div class="progress-bar">
+            <div id="taxProgress" class="progress"></div>
+        </div>
+        <span id="taxValue">0%</span>
+    </div>
+    
+    <div class="progress-bar-container">
+        <label>Transaction Fees:</label>
+        <div class="progress-bar">
+            <div id="feesProgress" class="progress"></div>
+        </div>
+        <span id="feesValue">0%</span>
+    </div>
+    
+    <script>
+        function updateProgress() {
+            const problems = parseInt(document.getElementById("problemsSlider").value);
+            const expense = parseInt(document.getElementById("expenseSlider").value);
+
+            // Update slider values
+            document.getElementById("problemsValue").innerText = problems;
+            document.getElementById("expenseValue").innerText = expense;
+
+            // Calculate tax and fee percentages based on slider values
+            const taxPercent = Math.min(100, (problems * 0.5) + (expense * 0.3));
+            const feesPercent = Math.min(100, (problems * 0.4) + (expense * 0.4));
+
+            // Update tax progress bar
+            document.getElementById("taxProgress").style.width = taxPercent + "%";
+            document.getElementById("taxValue").innerText = taxPercent.toFixed(0) + "%";
+
+            // Update fees progress bar
+            document.getElementById("feesProgress").style.width = feesPercent + "%";
+            document.getElementById("feesValue").innerText = feesPercent.toFixed(0) + "%";
+        }
+    </script>
+</body>
+</html>
