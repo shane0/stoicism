@@ -7,6 +7,8 @@
 - I think it fails where it is egocentric and an ego is an illusion on top of an illusion so large sections of the topic are futile
 - [stoic challenge](challenge.md){ .md-button }
 
+## face your fears to light up your blind spots
+
 ![fears](images/fears.webp)
 
 [TAGS]

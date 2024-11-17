@@ -34,13 +34,16 @@ However, some of his key areas of research and associated mathematical tools inc
   \langle x_f, t_f | x_i, t_i \rangle = \int \mathcal{D}x(t) e^{iS[x(t)]/\hbar}
   $$
 * **Gauge Theory:**
-  $$
-  F_{\mu\nu} = \partial_{\mu}A_{\nu} - \partial_{\nu}A_{\mu} + ig[A_{\mu}, A_{\nu}]
-  $$
+
+$$
+F_{\mu\nu} = \partial_{\mu}A_{\nu} - \partial_{\nu}A_{\mu} + ig[A_{\mu}, A_{\nu}]
+$$
+
 * **Renormalization:**
-  $$
-  \Gamma^{(n)}(p_1, ..., p_n) = \Gamma^{(n)}_0(p_1, ..., p_n) + \sum_{k=1}^{\infty} \frac{1}{\epsilon^k} \Gamma^{(n)}_k(p_1, ..., p_n)
-  $$
+
+$$
+\Gamma^{(n)}(p_1, ..., p_n) = \Gamma^{(n)}_0(p_1, ..., p_n) + \sum_{k=1}^{\infty} \frac{1}{\epsilon^k} \Gamma^{(n)}_k(p_1, ..., p_n)
+$$
 
 **Quantum Gravity**
 
