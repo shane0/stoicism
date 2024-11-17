@@ -1,3 +1,7 @@
+---
+tags:
+  - computations 
+---
 # particles
 
 - everything is changing including atoms
@@ -12,12 +16,68 @@
 - some people want the blue pill to keep eating steak and looking at girls in red dresses
 - read on at your egos peril
 
+## Dirac
+
+The Dirac equation is a relativistic wave equation that describes the behavior of spin-1/2 massive particles, such as electrons and protons. It is one of the cornerstones of quantum mechanics and quantum field theory.
+
+$$
+(i\hbar\gamma^{\mu}\partial_{\mu} - mc)\psi = 0
+$$
+
+where:
+
+- $\psi$: Dirac spinor
+- $\gamma^{\mu}$: Dirac gamma matrices
+- $\partial_{\mu}$: Four-gradient
+- $m$: Mass of the particle
+- $\hbar$: Reduced Planck's constant
+- $c$: Speed of light
+
+**Dirac Sea**
+
+Dirac introduced the concept of the Dirac sea to explain the negative energy solutions of the Dirac equation. He postulated that all negative energy states are filled with electrons, forming a sea. A hole in this sea, created by exciting an electron to a positive energy state, behaves like a positron, the antiparticle of the electron.
+
+**Quantum Field Theory**
+
+Dirac's work laid the foundation for quantum field theory, which describes the interactions of particles and fields. It is the basis for understanding fundamental forces like electromagnetism, the weak force, and the strong force.
+
 ## richard feynman
 
 - said something to the effect:
 - everything is atoms
 - protons attract electrons till the atoms get close then the electrons repel
 - everything behaves this way even animals like us
+
+**Feynman's Fundamental Computations**
+
+**Path Integral Formulation**
+
+Feynman's path integral formulation provides a powerful way to calculate quantum mechanical amplitudes. It involves summing over all possible paths a particle can take between two points in spacetime.
+
+$$
+\langle x_f, t_f | x_i, t_i \rangle = \int \mathcal{D}x(t) e^{iS[x(t)]/\hbar}
+$$
+
+where:
+
+- $\langle x_f, t_f | x_i, t_i \rangle$: Amplitude for a particle to go from $(x_i, t_i)$ to $(x_f, t_f)$
+- $\mathcal{D}x(t)$: Functional integral over all paths $x(t)$
+- $S[x(t)]$: Action of the path $x(t)$
+
+**Quantum Electrodynamics (QED)**
+
+Feynman made significant contributions to the development of QED, which describes the interaction between light and matter. He introduced Feynman diagrams, a graphical representation of particle interactions, to visualize and calculate quantum processes.
+
+**Other Contributions**
+
+Feynman also made important contributions to many other areas of physics, including:
+
+- Statistical mechanics
+- Nanotechnology
+- Quantum computing
+- Particle physics
+
+His work has had a profound impact on our understanding of the physical world.
 
 ## shunryu suzuki
 
@@ -178,3 +238,35 @@ The radius of electron shells is a complex topic that integrates multiple theori
 | Atomic absorption spectrometer               | AAS       |
 | Atomic emission spectrometer                 | AES       |
 | Neutron activation analysis                  | NAA       |
+
+## einstein
+
+**Einstein's Fundamental Computations**
+
+**Special Relativity**
+
+- Mass-Energy Equivalence:
+  $$
+  E = mc^2
+  $$
+- Time Dilation:
+  $$
+  t' = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}
+  $$
+- Length Contraction:
+  $$
+  L' = L\sqrt{1 - \frac{v^2}{c^2}}
+  $$
+
+**General Relativity**
+
+- Einstein Field Equations:
+  $$
+  R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}
+  $$
+- Geodesic Equation:
+  $$
+  \frac{d^2x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta}\frac{dx^\alpha}{d\tau}\frac{dx^\beta}{d\tau} = 0
+  $$
+
+Einstein's work revolutionized our understanding of gravity, space, and time. His theories have had a profound impact on modern physics and cosmology.
