@@ -1,4 +1,16 @@
+---
+tags:
+  - entropy 
+  - amor fati
+  - memento mori 
+---
 # Entropy
+
+> humans are temporary pockets of low entropy
+>> the universe - chapter 1 page 42
+
+![e](images/entropy.jpeg)
+![e](images/entropy_2.jpeg)
 
 **Classical Thermodynamics**
 
