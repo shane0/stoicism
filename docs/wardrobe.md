@@ -4,6 +4,8 @@ tags:
 ---
 # wardrobe
 
+![w](images/daily_wardrobe.png)
+
 - complete an old school sustainable heirloom heritage capsule wardrobe
 - minimal and less clothes but has more combinations because everything matches with solid colors
 - less distraction and time wasted sorting and matching

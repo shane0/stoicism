@@ -1,11 +1,16 @@
 # cormac mccarthy
 
+![r](images/read.jpeg)
+
 !!! bug
 
+    this is one of the challenges in the stoic people deck
+    read a fiction novel
     spoiler alert!
 
 - I am collecting his hard copies and audiobooks
 - and his movies
+- not sure what exactly reading a fiction novel has to do with stoicism
 
 ## cormac books I have have read
 
