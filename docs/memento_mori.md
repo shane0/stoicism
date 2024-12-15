@@ -1,6 +1,7 @@
 ---
 tags:
   - stoic challenge 
+  - favorites
 ---
 # Memento Mori
 

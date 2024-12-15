@@ -1,4 +1,12 @@
+---
+tags:
+  - knobs 
+  - algorithms 
+---
 # knobs
+
+- you can reduce algorithms to a set of knobs
+- good or bad they reflect whatever topic you are applying knobs to
 
 ## demonstrating expensive problems
 

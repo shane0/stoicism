@@ -1,3 +1,9 @@
+---
+tags:
+  - index 
+  - favorites 
+---
+
 # Amor Fati
 
 "Amor Fati" is a Latin phrase that translates to "love of fate" in English. This concept is closely associated with the philosophy of Stoicism, particularly the teachings of ancient Roman Stoic philosophers such as Seneca, Epictetus, and Marcus Aurelius. The idea behind "Amor Fati" is to embrace and love whatever fate or destiny brings, whether it's positive or negative. Here are key aspects of the concept:
