@@ -8,6 +8,8 @@ tags:
 ---
 # whiners
 
+![w](images/whiners.png)
+
 ## quick soliloquy
 
 I was watching a drama sitcom today which is a silly thing to do
