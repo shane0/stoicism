@@ -1,20 +1,24 @@
 # sid smith
 
-- this playlist is brilliant but if you do not approach this topic carefully it is debilitating trust me
+- <https://bsidneysmith.com/>
+
+<iframe width="1557" height="605" src="https://www.youtube.com/embed/CtfpVcbmrTU" title="Sid Smith: Post-doom with Michael Dowd (Dec 2019)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## notes on his collapse videos
+
+- this playlist is brilliant & makes me curious how he came to these conclusions
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=JAV6BKjtleY4p2tV&amp;list=PLNcGo6a-yKuIubvDb6mIyd0KHQ-7UasJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## prologue
 
-- I would add some recommendations:
-- <https://shanenull.com/buddhism/latest/maranasati/>
-- the book fear by thich nhat hahn + maranasati meditation
-- this video prepares you for the debilitating fear to come in the following videos
-- sounds like a mix of christianity & buddhism
-
 ### 1 civilization is collapsing not you
 
-- I'll be find yes but I'm very concerned for my children + future generations
+- there is some buddhism quote this reminds me of
+- the world is suffering therefore I am suffering
+- my concern is selfish partially for things happening now in my lifetime
+- mainly fires on the pacific crest trail where I spend my summer vacations
+- but mainly for my children + future generations
 
 ### 2 collapse not an event
 
