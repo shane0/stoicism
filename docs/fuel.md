@@ -4,12 +4,41 @@ tags:
   - fear
   - amor fati 
 ---
-# fuel footbullets
+# fuel
 
+> What is the minimum size of a biosphere? this is one of my favorite questions
+
+- long term - our wants might destroy our needs energy is one of many wants that we don't need
+- short term - there is no energy transition we have not found a sustainable energy source
+- suppose we terraformed a different sized planet would we or our plants survive long term with lower or higher gravity?
+- our desire for energy and money and war and power is causing extinction
+- preservation of the ecosystem is synonymous with sustainability
+- ecological overshoot is one of my favorite topics
+- it started when I was a child living closer to nature
+- my instinct toward sustainability would overwhelm me
+- I would get quite frustrated
+- but could not put it into action or even words and carried on with life
+- later it started to make sense: see my mentors page for more details how
+- preserving the human species is not a priority for governments they are stuck being mundane tribal warriors fighting over scarce & imagined scarcity
+- the majority of human behavior is spent on trivial activity not essential
+- that is our biggest obstacle
+- reminds me of this buddhist quote
+
+> For innumerable kalpas, I have pursued the trivial instead of the essential, drifted through all spheres of existence, created much animosity and hatred, maligned and harmed others endlessly. Even though now I have done no wrong, I am reaping the karmic consequences of past transgressions. It is something that neither the heavens nor other people can impose upon me. Therefore I should accept it willingly, without any resentment or objection.
+
+- this problem is not new its just a modern form of greed
+- how long have humans been behaving this greedy?
 - there is a lot of irony embedded in this image chatgpt generated
 - I did not mention natives in my prompt to generate an image for this page
+- if I had a magic wand I'd go create a sustainable city
+- what I think sustainable is more aligned with what william rees advises
+- draft horse & ox
+- if it doesn't have a butthole its probably not sustainable
+- sustainable includes the circle of life
+- if you disagree you are likely struggling with "human exceptionalism"
+- we do not know the requirements of a human body we have yet to built a biosphere
 
-![war](images/fuel.png)
+![war](images/fuel.jpeg)
 
 ## oil computation
 
@@ -96,8 +125,9 @@ To express this mathematically:
   - flammable liquid
   - hydrocarbon
 
-## greed for fuel created a global warmonger cabal
+## fake war
 
+- the instinct to fight over finite resources gets exploited
 - tribes are blinded by greed
 - the ecosystem is a renewable food and shelter supply
 - for control it is destroyed in our war for power
