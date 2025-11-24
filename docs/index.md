@@ -1,6 +1,9 @@
 
 # build the discipline to think well live well be well
 
+- note: 2025-11-24 I will be updating this site very rarely because I'm moving my sites to web3
+- <https://shane3.com>
+
 ## face your fears to light up your blind spots
 
 ![fears](images/fears.webp)
