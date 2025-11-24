@@ -1,3 +1,8 @@
+---
+tags:
+  - mentors 
+  - influence 
+---
 # sid smith
 
 - <https://bsidneysmith.com/>

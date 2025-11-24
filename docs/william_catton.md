@@ -1,3 +1,8 @@
+---
+tags:
+  - mentors 
+  - influence 
+---
 # william catton
 
 - <https://soundcloud.com/michael-dowd-grace-limits/catton-overshoot-1>

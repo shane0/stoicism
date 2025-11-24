@@ -1,3 +1,8 @@
+---
+tags:
+  - mentors 
+  - influence 
+---
 # william rees
 
 ## the most important video in the world
